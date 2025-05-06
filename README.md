@@ -100,6 +100,13 @@ data/DAVIS/JPEGImages/480p/<video_name>/
 
 The script applies synthetic jitter and learns to predict the inverse transformation using optical flow as input.
 
+## Results
+
+Input (left) vs Stabilized Output (right):
+
+![Stabilization Result](assets/screenshots/Screenshot.png)
+
+
 ## Academic and Industry Context
 
 This project was developed as part of a postgraduate assignment in the MSc Artificial Intelligence for Media programme. It applies real-time computer vision and machine learning for stabilization in live camera systems.
