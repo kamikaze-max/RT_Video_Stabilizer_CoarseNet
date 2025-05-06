@@ -104,7 +104,7 @@ The script applies synthetic jitter and learns to predict the inverse transforma
 
 Input (left) vs Stabilized Output (right):
 
-![Stabilization Result](assets/screenshots/Screenshot.png)
+![Stabilization Result](assets/Screenshot.png)
 
 
 ## Academic and Industry Context
