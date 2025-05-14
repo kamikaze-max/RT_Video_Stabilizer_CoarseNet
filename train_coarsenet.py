@@ -63,8 +63,8 @@ def train_coarsenet(image_dir, output_path='coarsenet_trained.pth', epochs=20, b
         print(f"Epoch {epoch+1} Loss: {total_loss/len(dataloader):.6f}")
 
     torch.save(model.state_dict(), output_path)
-    print(f"✅ CoarseNet model saved to {output_path}")
+    print(f" CoarseNet model saved to {output_path}")
 
 if __name__ == '__main__':
-    train_coarsenet(image_dir='data/DAVIS/JPEGImages/480p/', epochs=20)
+    train_coarsenet(image_dir='data/DAVIS/JPEGImages/480p/', epochs=50)
 
