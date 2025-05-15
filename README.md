@@ -38,7 +38,7 @@ RT_Video_Stabilizer_CoarseNet/
 ├── pretrained/
 │   └── coarsenet_trained.pth       # Trained weights
 ├── videos/
-│   ├── test.mp4
+│   ├── input.mp4
 │   └── output_stabilized.mp4
 ├── assets/
 │   └── screenshots/
