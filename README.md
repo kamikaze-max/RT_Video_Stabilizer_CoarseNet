@@ -1,5 +1,5 @@
-# Real-Time Video Stabilizer with CoarseNet
-
+# Real-Time Video Stabilizer with CoarseNet 
+### Karan Deepak Kapadia (s5726453), Bournemouth University (MSc Artificial Intelligence for Media)
 This project implements a real-time video stabilization system using a lightweight deep learning model called CoarseNet. It was developed as part of a Master's-level artificial intelligence assignment for Mo-Sys, targeting media production use cases in real-time camera motion correction.
 
 Final script: `RT_video_stabilization.py`
@@ -118,7 +118,7 @@ Note: This implementation only uses a CoarseNet-style model and does not include
 
 ## Author
 
-Karan Kapadia
+Karan Deepak Kapadia
 MSc Artificial Intelligence for Media
 GitHub: [kamikaze-max](https://github.com/kamikaze-max)
 
